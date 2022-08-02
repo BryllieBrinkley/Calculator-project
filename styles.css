@@ -1,0 +1,54 @@
+table {
+    margin: auto;
+  }
+
+  h1 {
+    color: peachpuff;
+    font-size: 45px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+
+.container {
+    text-align: center;
+    margin-top: 23px;
+  }
+  
+body {
+    background-image: url("math-bg.jpeg");
+    min-height: 100%;
+    min-width: 100%;
+}
+
+  input {
+    border: 2px solid black;
+    font-size: 30px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 60%;
+    width: 95%;
+    margin-bottom: 5%;
+  }
+  
+  button {
+    font-size: 20px;
+    background: rgb(224, 192, 150);
+    width: 60px;
+    height: 65px;
+    margin: 3px;
+  }
+
+  .red {
+    background-color: rgb(236, 197, 162);
+  }
+  
+  .calculator {
+    border: 4px solid black;
+    background-color: rgb(85, 85, 85);
+    padding: 20px;
+    display: inline-block;
+  }
+
+  .footer{
+    color: peachpuff;
+    text-align: center;
+    margin-top: 20px;
+  }
